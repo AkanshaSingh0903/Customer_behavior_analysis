@@ -4,7 +4,7 @@ This project analyzes customer purchasing behavior across multiple product categ
 
 The analysis combines SQL for querying and KPI calculation, Python for data cleaning and EDA, and Power BI for visualization, followed by a concise business report and presentation.
 
-Dataset
+**Dataset**
 
 The dataset contains customer purchase transactions across various product categories, including clothing, footwear, and accessories.
 
@@ -20,7 +20,7 @@ Purchase quantity / sales metrics
 
 The data was cleaned and prepared before analysis to ensure accuracy and consistency.
 
-Tools & Technologies
+**Tools & Technologies**
 
 Python (Pandas) – Data loading, cleaning, and exploratory data analysis (EDA)
 
@@ -32,7 +32,7 @@ Gamma – Business presentation (PPT)
 
 GitHub – Version control and project documentation
 
-Steps Performed
+**Steps Performed**
 
 Loaded the dataset using Python
 
@@ -46,7 +46,7 @@ Built an interactive Power BI dashboard
 
 Created a summary report and presentation for business stakeholders
 
-Dashboard
+**Dashboard**
 
 The Power BI dashboard provides:
 
@@ -60,7 +60,7 @@ Key KPIs for management decision-making
 
 The dashboard is designed to be intuitive and easy to explore for non-technical stakeholders.
 
-Results & Insights
+**Results & Insights**
 
 Identified product categories preferred by different age groups
 
@@ -82,7 +82,7 @@ Generate KPIs used in the Power BI dashboard
 
 These queries form the analytical foundation of the dashboard insights.
 
-How to Run
+**How to Run**
 
 Clone this repository
 
