@@ -1,4 +1,4 @@
-# Customer_behavior_analysis - Data Analytics Project Overview
+# Customer Purchasing Behavior & KPI Analysis | SQL, Python, Power BI
 
 This project analyzes customer purchasing behavior across multiple product categories to identify trends based on age group and gender. The goal was to answer management-driven business questions, track key performance indicators (KPIs), and present actionable insights through an interactive dashboard.
 
